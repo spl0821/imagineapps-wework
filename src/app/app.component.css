@@ -1,0 +1,14 @@
+.main-img{
+    padding: 20px; 
+    /* height: 80%; */
+    /* margin: auto !important; */
+    /* width: 80%; */
+    /* height: 64%; */
+    align-items: center;
+    /* width: 80%; */
+    display: flex;
+}
+
+.main-cards{
+    padding: 30px;
+}
